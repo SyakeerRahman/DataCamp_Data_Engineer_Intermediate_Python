@@ -1,7 +1,7 @@
 # DataCamp_Data_Engineer_Intermediate_Python
 
 
-Course Description\
+Course Description<br />
 
 Learning Python is crucial for any aspiring data science practitioner. Learn to visualize real data with Matplotlib’s functions and get acquainted with data structures such as the dictionary and pandas DataFrame. This four-hour intermediate course will help you to build on your existing Python skills and explore new Python applications and functions that expand your repertoire and help you work more efficiently.
 
